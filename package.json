@@ -1,9 +1,9 @@
 {
-  "name": "TVShowOrganizer",
+  "name": "tv-show-organizer",
   "preferGlobal": true,
   "version": "0.1.0",
   "author": "Ben Elsen <ben.elsen@gmail.com>",
-  "description": "Organizes TV Shows",
+  "description": "tv-show-organizer is a command line utility that cleans up the file names of your TV-Show like (Seasons, Episodes etc.) media files and organizes them into a neat folder structure.",
   "dependencies": {
     "underscore" : "1.3.x",
     "underscore.string" : "2.2.x",
@@ -25,6 +25,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/benelsen/tvshoworganizer.git"
+    "url": "https://github.com/benelsen/tv-show-organizer.git"
   }
 }
