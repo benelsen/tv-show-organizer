@@ -1,17 +1,16 @@
 {
   "name": "tv-show-organizer",
   "preferGlobal": true,
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": "Ben Elsen <ben.elsen@gmail.com>",
   "description": "tv-show-organizer is a command line utility that cleans up the file names of your TV-Show like (Seasons, Episodes etc.) media files and organizes them into a neat folder structure.",
   "dependencies": {
-    "underscore" : "1.3.x",
-    "underscore.string" : "2.2.x",
-    "commander" : "1.0.x",
+    "underscore" : "1.4.x",
+    "underscore.string" : "2.3.x",
+    "commander" : "1.1.x",
     "mkdirp" : "0.3.x"
   },
   "devDependencies": {
-    "coffee-script" : "1.3.x"
   },
   "bin": {
     "organizer" : "./organizer.js"
@@ -21,7 +20,6 @@
   },
   "license": "MIT",
   "scripts": {
-    "preinstall": "make"
   },
   "repository": {
     "type": "git",
