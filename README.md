@@ -24,3 +24,7 @@ Options:
   - Copy files instead of renaming/moving them
 -  `-f`/`--folder`     
   - Create a folder structure “Show Name/Season #/”
+
+## License
+
+[MIT](https://github.com/benelsen/tv-show-organizer/blob/master/LICENSE)
