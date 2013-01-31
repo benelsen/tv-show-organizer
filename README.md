@@ -27,4 +27,4 @@ Options:
 
 ## License
 
-[MIT](https://github.com/benelsen/tv-show-organizer/blob/master/LICENSE)
+[MIT](LICENSE)
